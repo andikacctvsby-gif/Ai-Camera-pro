@@ -1,0 +1,7 @@
+{
+  "name": "AI Cam Pro",
+  "description": "Kamera AI pintar dengan deteksi objek real-time, penghapus latar belakang & objek otomatis, serta studio edit foto pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

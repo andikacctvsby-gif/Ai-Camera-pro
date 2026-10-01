@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">AI Cam Pro</string>
+
+    <!-- Navigation Tabs -->
+    <string name="nav_camera">Kamera AI</string>
+    <string name="nav_magic">Magic Studio</string>
+    <string name="nav_editor">Editor Foto</string>
+    <string name="nav_gallery">Galeri Karya</string>
+
+    <!-- Camera Mode -->
+    <string name="camera_realtime_detection">Deteksi Real-Time AI</string>
+    <string name="camera_deep_scan">AI Deep Vision</string>
+    <string name="camera_shutter">Ambil Foto Kualitas Tinggi</string>
+    <string name="camera_switch">Ganti Kamera</string>
+    <string name="camera_flash">Pengaturan Flash</string>
+    <string name="camera_grid">Garis Kisi Komposisi</string>
+    <string name="camera_timer">Penghitung Waktu</string>
+    <string name="camera_hd_badge">HD 4K ULTRA</string>
+    <string name="camera_permission_title">Akses Kamera Diperlukan</string>
+    <string name="camera_permission_desc">AI Cam Pro memerlukan izin kamera untuk mendeteksi objek secara langsung dan mengambil gambar beresolusi tinggi.</string>
+    <string name="camera_permission_btn">Izinkan Akses Kamera</string>
+    <string name="camera_simulation_btn">Coba Mode Simulasi Cerdas</string>
+
+    <!-- Magic Studio -->
+    <string name="magic_title">AI Magic Cutout &amp; Eraser</string>
+    <string name="magic_tab_remove_bg">Hapus Background</string>
+    <string name="magic_tab_object_eraser">Hapus Objek</string>
+    <string name="magic_brush_size">Ukuran Kuas Magic</string>
+    <string name="magic_erase_btn">Hapus Objek Terpilih</string>
+    <string name="magic_reset_btn">Reset Pilihan</string>
+    <string name="magic_auto_detect">AI Deteksi Otomatis</string>
+    <string name="magic_bg_transparent">Transparan (PNG)</string>
+    <string name="magic_bg_color">Warna Solid</string>
+    <string name="magic_bg_scenery">Latar Pemandangan</string>
+    <string name="magic_bg_custom">Pilih dari Galeri</string>
+    <string name="magic_feather">Kehalusan Tepi (Feather)</string>
+    <string name="magic_shadow">Bayangan Halus</string>
+    <string name="magic_before_after">Bandingkan Asli</string>
+
+    <!-- Photo Editor -->
+    <string name="editor_title">Studio Edit Foto Pro</string>
+    <string name="editor_tab_preset">Filter Estetik</string>
+    <string name="editor_tab_adjust">Penyuntingan Pro</string>
+    <string name="editor_tab_crop">Rasio &amp; Rotasi</string>
+    <string name="editor_tab_overlay">Teks &amp; Badge AI</string>
+    <string name="editor_auto_enhance">Satu-Ketuk Auto Enhance</string>
+    <string name="editor_brightness">Kecerahan</string>
+    <string name="editor_contrast">Kontras</string>
+    <string name="editor_saturation">Saturasi Warna</string>
+    <string name="editor_warmth">Suhu / Kehangatan</string>
+    <string name="editor_sharpness">Ketajaman</string>
+    <string name="editor_vignette">Efek Vignette</string>
+    <string name="editor_bokeh">Bokeh Latar Belakang</string>
+    <string name="editor_reset">Kembalikan Semula</string>
+    <string name="editor_save">Simpan Foto</string>
+    <string name="editor_share">Bagikan</string>
+    <string name="editor_add_caption">Tambah Keterangan</string>
+
+    <!-- Gallery & Feedback -->
+    <string name="gallery_title">Koleksi Hasil Karya</string>
+    <string name="gallery_empty">Belum ada foto yang disimpan.\nAmbil foto baru atau sunting foto sekarang!</string>
+    <string name="gallery_photo_saved">Foto berhasil disimpan ke galeri!</string>
+    <string name="gallery_delete_confirm">Hapus foto ini?</string>
+    <string name="gallery_use_in_magic">Buka di Magic Studio</string>
+    <string name="gallery_use_in_editor">Buka di Editor Foto</string>
+</resources>
+
